@@ -1,27 +1,41 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:0F172A,100:2563EB&text=DEOGRATIOUS%20KALYANGO&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20DEVELOPER%20%7C%20TECHNOLOGY%20ARCHITECT&descAlignY=59&descSize=13&animation=fadeIn" width="100%" alt="Deogratious Kalyango — Software Engineer and AI Developer" />
+<!-- PROFESSIONAL HEADER -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0F172A,100:2563EB&text=DEOGRATIOUS%20KALYANGO&fontColor=FFFFFF&fontSize=36&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20DEVELOPER%20%7C%20TECHNOLOGY%20ARCHITECT&descAlignY=58&descSize=13&animation=fadeIn"
+  width="100%"
+  alt="Deogratious Kalyango"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=Engineering+Scalable+Digital+Experiences;Building+Intelligent+Software+Systems;Full-Stack+Development+%7C+AI+%7C+Cloud;Transforming+Complex+Ideas+Into+Reliable+Products" alt="Animated introduction" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Engineering+Scalable+Digital+Experiences;Building+Intelligent+Software+Systems;Full-Stack+Engineering+%7C+AI+%7C+Cloud;Transforming+Ideas+Into+Reliable+Products"
+  alt="Professional introduction"
+/>
 
 <br/>
 
 <a href="https://github.com/deogratioiuskalyango">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="mailto:deogratiouskalyango@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/CONTACT-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://github.com/deogratioiuskalyango?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-0F172A?style=for-the-badge&logo=githubactions&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/REPOSITORIES-0F172A?style=for-the-badge&logo=githubactions&logoColor=white" alt="Repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=deogratioiuskalyango&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=deogratioiuskalyango&style=flat-square&color=2563EB&label=PROFILE+VIEWS"
+  alt="Profile views"
+/>
 
 </div>
 
@@ -29,35 +43,39 @@
 
 ---
 
-## 01 / PROFILE
+# 01 / ABOUT ME
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
-### Engineering technology that solves real problems.
+### Engineering intelligent digital solutions.
 
 I am **Deogratious Kalyango**, a multidisciplinary software engineer and AI developer based in Uganda.
 
-My work combines full-stack application development, intelligent automation, cloud infrastructure, and enterprise software architecture.
+My professional work spans full-stack application engineering, artificial intelligence, mobile development, enterprise systems, and cloud infrastructure.
 
-With a professional background in pharmacy and healthcare management, I bring domain expertise to the development of technology for healthcare, business operations, and digital platforms.
+With a background in pharmacy and healthcare management, I bring an interdisciplinary perspective to software development, combining technical engineering with practical industry knowledge.
 
-I focus on creating software that is maintainable, scalable, secure, and designed around real operational requirements.
+I specialize in translating complex operational requirements into reliable, maintainable, and scalable digital products.
 
-**Core disciplines**
+**Professional focus**
 
-- Full-stack web application engineering
-- Artificial intelligence and intelligent automation
-- Cross-platform mobile application development
-- Enterprise software and systems integration
-- Database architecture and API engineering
-- Cloud infrastructure and application deployment
+- Full-stack software engineering
+- Artificial intelligence and automation
+- Enterprise application architecture
+- Cross-platform mobile development
+- Healthcare technology
+- Cloud infrastructure and deployment
 
 </td>
-<td width="38%" valign="top">
+<td width="35%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deogratioiuskalyango&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117&langs_count=8" width="100%" alt="Programming languages"/>
+<img
+  src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,python,php,mysql,postgres,docker&perline=3&theme=dark"
+  width="100%"
+  alt="Core engineering technologies"
+/>
 
 </td>
 </tr>
@@ -65,43 +83,61 @@ I focus on creating software that is maintainable, scalable, secure, and designe
 
 ---
 
-## 02 / TECHNOLOGY STACK
+# 02 / TECHNOLOGY STACK
 
 <div align="center">
 
-### Languages & Core Technologies
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css&theme=dark" alt="Programming languages"/>
+<img
+  src="https://skillicons.dev/icons?i=php,js,ts,python,html,css&theme=dark"
+  alt="Programming languages"
+/>
 
 <br/><br/>
 
 ### Frontend Engineering
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" alt="Frontend technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark"
+  alt="Frontend technologies"
+/>
 
 <br/><br/>
 
-### Backend & Application Architecture
+### Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nginx&theme=dark" alt="Backend technologies"/>
-
-<br/><br/>
-
-### Mobile Application Development
-
-<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,kotlin&theme=dark" alt="Mobile development technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=laravel,nodejs,express,nginx&theme=dark"
+  alt="Backend technologies"
+/>
 
 <br/><br/>
 
-### Databases & Cloud Infrastructure
+### Mobile Development
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,docker,cloudflare,vercel&theme=dark" alt="Database and cloud technologies"/>
+<img
+  src="https://skillicons.dev/icons?i=react,flutter,androidstudio,kotlin&theme=dark"
+  alt="Mobile development technologies"
+/>
 
 <br/><br/>
 
-### Development Environment & Tooling
+### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux,ubuntu&theme=dark" alt="Development tools"/>
+<img
+  src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,docker,cloudflare,vercel&theme=dark"
+  alt="Databases and infrastructure"
+/>
+
+<br/><br/>
+
+### Development Tools
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux,ubuntu&theme=dark"
+  alt="Development tools"
+/>
 
 </div>
 
@@ -109,40 +145,40 @@ I focus on creating software that is maintainable, scalable, secure, and designe
 
 ---
 
-## 03 / ENGINEERING SPECIALIZATIONS
+# 03 / ENGINEERING EXPERTISE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 — Artificial Intelligence
+### Artificial Intelligence
 
 **Intelligent systems and automation**
 
-Designing AI-enabled applications that integrate intelligent capabilities into practical business workflows.
+Designing software that integrates artificial intelligence into practical business applications.
 
-- AI-powered application features
 - LLM integrations
-- Workflow automation
-- AI-assisted development
-- Intelligent content processing
+- Intelligent workflow automation
+- AI-assisted application development
 - Model integration and orchestration
+- Intelligent content processing
+- AI-powered product features
 
 </td>
 <td width="50%" valign="top">
 
-### 02 — Full-Stack Engineering
+### Full-Stack Development
 
-**Modern web applications**
+**Modern web application engineering**
 
-Developing complete software products from database architecture to responsive user interfaces.
+Building complete software products with maintainable architecture and responsive interfaces.
 
-- Laravel and PHP applications
-- React and Next.js interfaces
-- RESTful API architecture
+- Laravel and PHP
+- React and Next.js
+- RESTful API development
 - Authentication and authorization
-- Database design and optimization
-- Application performance engineering
+- Database architecture
+- Application performance optimization
 
 </td>
 </tr>
@@ -150,34 +186,34 @@ Developing complete software products from database architecture to responsive u
 <tr>
 <td width="50%" valign="top">
 
-### 03 — Mobile Engineering
+### Mobile Engineering
 
-**Cross-platform digital products**
+**Cross-platform application development**
 
-Engineering mobile applications that integrate seamlessly with scalable backend services.
+Creating mobile applications connected to reliable backend infrastructure.
 
 - React Native and Expo
-- Flutter application development
+- Flutter development
 - Real-time messaging
-- Media-rich applications
+- Video and media applications
 - Offline-first architecture
 - Mobile API integration
 
 </td>
 <td width="50%" valign="top">
 
-### 04 — Enterprise Architecture
+### Enterprise Systems
 
-**Business-critical software**
+**Business-critical software architecture**
 
-Building systems that support operational workflows, business intelligence, and organizational management.
+Developing platforms that support operational workflows and organizational management.
 
-- Enterprise resource management
-- Point-of-sale systems
-- Inventory and financial workflows
-- Operational dashboards
+- Enterprise management systems
+- Point-of-sale applications
+- Inventory management
+- Business intelligence dashboards
 - Role-based access control
-- Multi-tenant application architecture
+- Operational reporting
 
 </td>
 </tr>
@@ -185,9 +221,7 @@ Building systems that support operational workflows, business intelligence, and 
 
 ---
 
-## 04 / SELECTED WORK
-
-The following represent areas of professional development and active engineering work.
+# 04 / SELECTED PROJECTS
 
 <table>
 <tr>
@@ -197,17 +231,20 @@ The following represent areas of professional development and active engineering
 
 **Social & Creator Technology**
 
-A social application ecosystem combining mobile experiences with Laravel-powered backend infrastructure.
+A social application ecosystem combining modern mobile experiences with Laravel-powered backend infrastructure.
 
-**Engineering areas**
+**Engineering focus**
 
 - React Native and Expo
 - Laravel application services
 - Real-time communication
 - Video and media experiences
-- Creator monetization workflows
+- Creator monetization
+- API-driven architecture
 
-<code>React Native</code> <code>Laravel</code> <code>Expo</code>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
 
 </td>
 <td width="50%" valign="top">
@@ -218,15 +255,18 @@ A social application ecosystem combining mobile experiences with Laravel-powered
 
 An offline-first pharmacy management platform designed around pharmaceutical operations and business requirements.
 
-**Engineering areas**
+**Engineering focus**
 
 - Point-of-sale architecture
 - Inventory management
 - Local and cloud synchronization
 - Regulatory workflow support
 - Windows desktop deployment
+- Business reporting
 
-<code>PHP</code> <code>Laravel</code> <code>MySQL</code>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 
 </td>
 </tr>
@@ -240,15 +280,18 @@ An offline-first pharmacy management platform designed around pharmaceutical ope
 
 An integrated platform supporting security operations, workforce coordination, and operational management.
 
-**Engineering areas**
+**Engineering focus**
 
 - Operational dashboards
 - Dispatch and communications
 - Workforce management
 - Location-based services
 - Reporting and analytics
+- Business process automation
 
-<code>Laravel</code> <code>React</code> <code>APIs</code>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/API-2563EB?style=flat-square&logo=postman&logoColor=white" alt="API"/>
 
 </td>
 <td width="50%" valign="top">
@@ -259,25 +302,30 @@ An integrated platform supporting security operations, workforce coordination, a
 
 Digital infrastructure supporting property administration, operational workflows, and business management.
 
-**Engineering areas**
+**Engineering focus**
 
 - Property administration
 - Tenant management
 - Financial workflows
 - Document management
-- Reporting and analytics
+- Operational reporting
+- Business dashboards
 
-<code>Laravel</code> <code>MySQL</code> <code>Web</code>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Web-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/>
 
 </td>
 </tr>
 </table>
 
-> Selected systems are privately maintained or under active development. Public source code is available through the repositories on this profile where published.
+<br/>
+
+> Selected professional projects are privately maintained or under active development. Public source code is available through my repositories where published.
 
 ---
 
-## 05 / ENGINEERING PHILOSOPHY
+# 05 / ENGINEERING PRINCIPLES
 
 <div align="center">
 
@@ -285,7 +333,7 @@ Digital infrastructure supporting property administration, operational workflows
 <tr>
 <td align="center" width="25%">
 
-**ARCHITECTURE**
+### ARCHITECTURE
 
 Modular design
 
@@ -296,7 +344,7 @@ Maintainable systems
 </td>
 <td align="center" width="25%">
 
-**RELIABILITY**
+### RELIABILITY
 
 Fault tolerance
 
@@ -307,7 +355,7 @@ Data integrity
 </td>
 <td align="center" width="25%">
 
-**SECURITY**
+### SECURITY
 
 Least privilege
 
@@ -318,7 +366,7 @@ Defense in depth
 </td>
 <td align="center" width="25%">
 
-**PERFORMANCE**
+### PERFORMANCE
 
 Efficient queries
 
@@ -334,27 +382,31 @@ Scalable infrastructure
 
 <br/>
 
-My approach to software engineering is grounded in a simple principle:
+**My engineering philosophy**
 
-**Build for the requirements of today, while preserving the architectural flexibility required for tomorrow.**
+Build for the requirements of today while preserving the architectural flexibility required for tomorrow.
 
 I prioritize readable code, deliberate architecture, secure implementation, and solutions that remain practical as systems evolve.
 
 ---
 
-## 06 / GITHUB ANALYTICS
+# 06 / TECHNOLOGY LANDSCAPE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deogratioiuskalyango&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8&bg_color=0D1117&include_all_commits=true" height="175" alt="GitHub statistics"/>
+### My Engineering Ecosystem
 
-<img src="https://streak-stats.demolab.com?user=deogratioiuskalyango&theme=transparent&hide_border=true&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&background=0D1117" height="175" alt="GitHub contribution streak"/>
+<img
+  src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,python,flutter,html,css,tailwind,mysql,postgres,supabase,firebase,docker,cloudflare,vercel,git,github,linux,nginx,postman&perline=8&theme=dark"
+  width="90%"
+  alt="Engineering technology ecosystem"
+/>
 
 <br/><br/>
 
-### Contribution Activity
+**Backend Engineering · Frontend Development · Mobile Applications**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deogratioiuskalyango&bg_color=0D1117&color=94A3B8&line=2563EB&point=38BDF8&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
+**Artificial Intelligence · Databases · Cloud Infrastructure**
 
 </div>
 
@@ -362,25 +414,27 @@ I prioritize readable code, deliberate architecture, secure implementation, and 
 
 ---
 
-## 07 / CURRENT FOCUS
+# 07 / CURRENT FOCUS
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**APPLICATION ENGINEERING**
+### Application Engineering
 
-- Scalable Laravel application architecture
-- Cross-platform mobile development
+- Scalable Laravel architecture
+- Cross-platform mobile applications
 - Real-time communication systems
 - Offline-first application design
+- API integration and orchestration
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**AI & INFRASTRUCTURE**
+### AI & Infrastructure
 
-- AI integration and automation
+- Artificial intelligence integration
+- Intelligent workflow automation
 - Cloud-native deployment
 - Data synchronization architecture
 - Secure enterprise infrastructure
@@ -391,7 +445,90 @@ I prioritize readable code, deliberate architecture, secure implementation, and 
 
 ---
 
-## 08 / CONNECT
+# 08 / DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+### GitHub Contributions
+
+<a href="https://github.com/deogratioiuskalyango">
+  <img
+    src="https://img.shields.io/github/followers/deogratioiuskalyango?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB"
+    alt="GitHub followers"
+  />
+</a>
+
+<a href="https://github.com/deogratioiuskalyango?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/EXPLORE-PUBLIC_REPOSITORIES-0F172A?style=for-the-badge&logo=github"
+    alt="Public repositories"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/deogratioiuskalyango">
+  <img
+    src="https://komarev.com/ghpvc/?username=deogratioiuskalyango&style=for-the-badge&color=2563EB&label=PROFILE+VISITORS"
+    alt="Profile visitors"
+  />
+</a>
+
+<br/><br/>
+
+My public repositories, contributions, and development activity are available directly through my GitHub profile.
+
+</div>
+
+---
+
+# 09 / PROFESSIONAL INTERESTS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### SOFTWARE ENGINEERING
+
+Full-stack applications
+
+Enterprise architecture
+
+Distributed systems
+
+</td>
+<td align="center" width="33%">
+
+### ARTIFICIAL INTELLIGENCE
+
+Intelligent applications
+
+Automation systems
+
+AI integration
+
+</td>
+<td align="center" width="33%">
+
+### INDUSTRY TECHNOLOGY
+
+Healthcare systems
+
+Business operations
+
+Digital platforms
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 10 / CONNECT
 
 <div align="center">
 
@@ -402,16 +539,22 @@ I am interested in meaningful collaborations involving software engineering, art
 <br/>
 
 <a href="mailto:deogratiouskalyango@gmail.com">
-<img src="https://img.shields.io/badge/START_A_CONVERSATION-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+  <img
+    src="https://img.shields.io/badge/START_A_CONVERSATION-2563EB?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Contact by email"
+  />
 </a>
 
 <a href="https://github.com/deogratioiuskalyango?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  <img
+    src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore repositories"
+  />
 </a>
 
 <br/><br/>
 
-**Deogratious Kalyango**
+**DEOGRATIOUS KALYANGO**
 
 Software Engineer · AI Developer · Technology Architect
 
@@ -419,6 +562,10 @@ Uganda
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563EB,50:0F172A,100:020617" width="100%" alt="Footer decoration"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563EB,50:0F172A,100:020617"
+  width="100%"
+  alt="Footer decoration"
+/>
 
 </div>
